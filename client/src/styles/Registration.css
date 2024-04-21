@@ -1,0 +1,27 @@
+#root {
+	max-width: 1280px;
+	margin: 3rem auto;
+	padding: 2rem;
+	text-align: center;
+}
+
+.registerForm {
+	display: flex;
+	flex-direction: column;
+	align-items: left;
+	text-align: left;
+	gap: 0.4rem;
+}
+
+.registerButton {
+	margin-top: 2rem;
+}
+
+.success-message {
+	padding: 0.5rem;
+	margin-top: 2rem;
+	color: whitesmoke;
+	background-color: rgb(52, 70, 52);
+	border: 3px solid whitesmoke;
+	border-radius: 0.4rem;
+}
