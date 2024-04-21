@@ -1,4 +1,4 @@
-![WhatTheDuck Logo](https://raw.githubusercontent.com/klvsv/whattheduck/main/client/public/logo.png | width=200)
+<img src="https://raw.githubusercontent.com/klvsv/whattheduck/main/client/public/logo.png" width="200">
 
 # What The Duck
 
